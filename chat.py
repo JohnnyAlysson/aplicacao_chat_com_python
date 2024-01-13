@@ -60,4 +60,4 @@ def main(pagina):
     pagina.add(botao_iniciar)
 
    
-ft.app(main, view= ft.WEB_BROWSER)
+ft.app(main)
